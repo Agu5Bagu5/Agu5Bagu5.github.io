@@ -99,7 +99,7 @@ nav {
     height: 100vh;
     display: flex;
     align-items: center;
-    background: url(img/home-background.jpg);
+    background: url(home-background.jpg);
     background-position: center;
     background-size: cover;
 }
