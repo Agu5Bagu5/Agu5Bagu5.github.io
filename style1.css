@@ -6,6 +6,10 @@
     scroll-behavior: smooth;
 }
 
+body::webkit-scrollbar {
+    display: none
+}
+
 /* Navigasi */
 nav {
     top: 0;
